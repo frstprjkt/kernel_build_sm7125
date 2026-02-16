@@ -47,7 +47,7 @@ jobs:
           ksu-version: master
 
           aosp-clang: true
-          aosp-clang-version: r563880c
+          aosp-clang-version: r584948b
           aosp-gcc: true
 
           anykernel3: true
